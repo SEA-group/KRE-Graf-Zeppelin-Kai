@@ -1,0 +1,14 @@
+<GSA001_Graf_Zeppelin_1945_Deckhouse_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/ship/GSA001_Graf_Zeppelin_1945_Deckhouse_wire_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/ship/GSA001_Graf_Zeppelin_1945_Deckhouse_wire_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/ship/defualt_n.dds	</Texture>
+	</property>
+</GSA001_Graf_Zeppelin_1945_Deckhouse_wire.mfm>

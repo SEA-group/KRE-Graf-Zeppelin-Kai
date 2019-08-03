@@ -1,0 +1,19 @@
+<GRS048_FUMO21.model>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation5rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<exporter>	1.6	</exporter>
+	<materialNames />
+	<extent>	4.0000	</extent>
+	<animation>
+		<name>	Rotation5rpm	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/Rotation5rpm	</nodes>
+	</animation>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/radar/GRS048_FUMO21_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/radar/GRS048_FUMO21	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GRS048_FUMO21.model>

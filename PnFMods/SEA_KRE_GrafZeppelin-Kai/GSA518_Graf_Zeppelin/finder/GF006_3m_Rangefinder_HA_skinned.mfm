@@ -1,0 +1,17 @@
+<GF006_3m_Rangefinder_HA_skinned.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/finder/GF006_3m_Rangefinder_HA_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/finder/GF006_3m_Rangefinder_HA_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/finder/GF006_3m_Rangefinder_HA_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/finder/default_ao.dds	</Texture>
+	</property>
+</GF006_3m_Rangefinder_HA_skinned.mfm>

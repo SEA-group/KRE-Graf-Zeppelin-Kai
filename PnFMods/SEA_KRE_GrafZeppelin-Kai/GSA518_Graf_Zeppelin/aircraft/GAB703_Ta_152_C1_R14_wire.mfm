@@ -1,0 +1,14 @@
+<GAB703_Ta_152_C1_R14_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/aircraft/GAB703_Ta_152_C1_R14_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/aircraft/GAB703_Ta_152_C1_R14_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/aircraft/GAB703_Ta_152_C1_R14_n.dds	</Texture>
+	</property>
+</GAB703_Ta_152_C1_R14_wire.mfm>

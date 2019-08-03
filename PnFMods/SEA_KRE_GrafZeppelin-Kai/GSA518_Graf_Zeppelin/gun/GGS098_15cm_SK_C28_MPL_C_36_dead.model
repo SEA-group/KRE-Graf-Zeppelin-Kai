@@ -1,0 +1,8 @@
+<GGS098_15cm_SK_C28_MPL_C_36_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/gun/GGS098_15cm_SK_C28_MPL_C_36_dead_lod1	</parent>
+	<extent>	6.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/gun/GGS098_15cm_SK_C28_MPL_C_36_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGS098_15cm_SK_C28_MPL_C_36_dead.model>
