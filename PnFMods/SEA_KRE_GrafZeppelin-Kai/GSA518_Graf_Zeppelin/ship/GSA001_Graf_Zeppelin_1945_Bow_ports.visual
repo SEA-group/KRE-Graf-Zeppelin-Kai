@@ -43,12 +43,30 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_Fire_Burn_1	</identifier>
+				<identifier>	HP_FX_Death_1	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 6.7109 1.0000	</row3>
+					<row3>	0.0000 0.0000 4.5319 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.5538 6.5600 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 8.5082 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -174,7 +192,7 @@
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 4.5319 1.0000	</row3>
+					<row3>	0.0000 0.0000 4.5604 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -256,6 +274,15 @@
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
 					<row3>	0.0000 0.7998 8.9269 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GTA0044	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0153 0.8393 6.8863 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
