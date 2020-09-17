@@ -13,7 +13,7 @@
 		<nodes>	content/animation/common/Rotation5rpm	</nodes>
 	</animation>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/radar/GRS048_FUMO21_lod1	</parent>
+	<parent>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/radar/lods/GRS048_FUMO21_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/radar/GRS048_FUMO21	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </GRS048_FUMO21.model>

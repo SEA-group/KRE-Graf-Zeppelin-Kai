@@ -1,8 +1,0 @@
-<GPR001_Wfr_Gr_21E_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/projectile/GPR001_Wfr_Gr_21E_lod2	</parent>
-	<nodefullVisual>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/projectile/GPR001_Wfr_Gr_21E_lod1	</nodefullVisual>
-	<extent>	6.0000	</extent>
-	<castsShadow>	false	</castsShadow>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</GPR001_Wfr_Gr_21E_lod1.model>

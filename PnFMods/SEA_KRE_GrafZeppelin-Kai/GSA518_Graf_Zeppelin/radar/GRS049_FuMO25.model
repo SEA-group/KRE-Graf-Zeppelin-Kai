@@ -5,7 +5,7 @@
 		<filler>	true	</filler>
 	</action>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/radar/GRS049_FuMO25_lod1	</parent>
+	<parent>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/radar/lods/GRS049_FuMO25_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<materialNames />
 	<castsShadow>	false	</castsShadow>
