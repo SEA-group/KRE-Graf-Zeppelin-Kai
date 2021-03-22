@@ -106,12 +106,39 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_FX_Fire_3	</identifier>
+				<identifier>	HP_FX_Death_2	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.8200 -3.0795 1.0000	</row3>
+					<row3>	0.0000 0.0000 -0.6297 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_3	</identifier>
+				<transform>
+					<row0>	0.6624 -0.2472 0.7072 0.0000	</row0>
+					<row1>	0.3497 0.9369 0.0000 0.0000	</row1>
+					<row2>	-0.6626 0.2473 0.7070 0.0000	</row2>
+					<row3>	0.6362 0.8794 -2.6503 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_3_side_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.0645 0.9112 -1.7837 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_3_side_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-1.0280 0.9280 -4.1570 1.0000	</row3>
 				</transform>
 			</node>
 			<node>

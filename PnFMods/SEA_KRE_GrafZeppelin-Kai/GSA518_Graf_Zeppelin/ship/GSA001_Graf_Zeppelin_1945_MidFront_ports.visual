@@ -142,21 +142,48 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_FX_Death_2	</identifier>
+				<identifier>	HP_FX_Death_1	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 -0.6297 1.0000	</row3>
+					<row3>	0.0000 0.0000 4.5319 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
 				<identifier>	HP_FX_Fire_2	</identifier>
 				<transform>
+					<row0>	0.6488 0.5127 -0.5623 0.0000	</row0>
+					<row1>	-0.3875 0.8585 0.3358 0.0000	</row1>
+					<row2>	0.6549 0.0000 0.7557 0.0000	</row2>
+					<row3>	-0.7483 0.9283 2.9607 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_2_side_1	</identifier>
+				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.8356 2.5995 1.0000	</row3>
+					<row3>	0.8530 1.2515 3.8063 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_2_side_2	</identifier>
+				<transform>
+					<row0>	0.8381 0.2757 -0.4708 0.0000	</row0>
+					<row1>	-0.2404 0.9612 0.1350 0.0000	</row1>
+					<row2>	0.4898 0.0000 0.8719 0.0000	</row2>
+					<row3>	0.3272 0.9077 2.2428 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_2_side_3	</identifier>
+				<transform>
+					<row0>	0.9984 0.0571 0.0000 0.0000	</row0>
+					<row1>	-0.0571 0.9984 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.9299 0.9145 0.5701 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -226,9 +253,18 @@
 				<identifier>	HP_FX_Smoke_1	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.7469 1.9859 1.2721 1.0000	</row3>
+					<row1>	0.0000 0.9202 -0.3914 0.0000	</row1>
+					<row2>	0.0000 0.3914 0.9202 0.0000	</row2>
+					<row3>	0.7469 1.9919 1.4127 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Smoke_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.9485 -0.3166 0.0000	</row1>
+					<row2>	0.0000 0.3166 0.9485 0.0000	</row2>
+					<row3>	0.7469 1.7930 1.2019 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
