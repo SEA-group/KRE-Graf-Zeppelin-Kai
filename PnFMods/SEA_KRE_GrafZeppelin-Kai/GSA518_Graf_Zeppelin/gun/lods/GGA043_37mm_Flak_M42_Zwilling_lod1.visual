@@ -108,7 +108,7 @@
 			<primitive>	GGA043_37mm_Flak_M42_Zwilling_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Gun_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Gun_skinned	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/gun/GGA043_37mm_Flak_M42_Zwilling_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

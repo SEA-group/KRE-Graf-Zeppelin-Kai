@@ -150,7 +150,7 @@
 			<primitive>	Turret_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/gun/GGS003_105_mm_SKC_33_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

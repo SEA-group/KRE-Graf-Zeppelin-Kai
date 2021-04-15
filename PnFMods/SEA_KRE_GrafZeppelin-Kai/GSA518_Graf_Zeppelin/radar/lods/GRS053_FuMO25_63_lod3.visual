@@ -62,7 +62,7 @@
 			<primitive>	gun_Root_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/radar/GRS053_FuMO25_63_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

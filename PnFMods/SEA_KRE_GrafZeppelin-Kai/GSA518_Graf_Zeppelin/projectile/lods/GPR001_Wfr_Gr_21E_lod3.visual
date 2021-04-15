@@ -34,7 +34,7 @@
 			<primitive>	Rocket_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_NODAMAGE_PBS_Projectile	</identifier>
+					<identifier>	SHIPMATX_NODAMAGE_PBS_Projectile	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/projectile/GPR001_Wfr_Gr_21E.mfm	</mfm>
 				</material>
 			</primitiveGroup>

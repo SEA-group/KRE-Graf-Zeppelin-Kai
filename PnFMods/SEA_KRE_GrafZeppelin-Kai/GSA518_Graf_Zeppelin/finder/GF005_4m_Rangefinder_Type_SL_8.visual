@@ -29,7 +29,7 @@
 			<primitive>	Director_RootShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/finder/GF005_4m_Rangefinder_Type_SL_8.mfm	</mfm>
 				</material>
 			</primitiveGroup>

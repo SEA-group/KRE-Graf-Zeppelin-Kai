@@ -29,7 +29,7 @@
 			<primitive>	GGA035_20mm_Flak_38_C35_dead_lodShape2.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/gun/GGA035_22mm_Flak_C35_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

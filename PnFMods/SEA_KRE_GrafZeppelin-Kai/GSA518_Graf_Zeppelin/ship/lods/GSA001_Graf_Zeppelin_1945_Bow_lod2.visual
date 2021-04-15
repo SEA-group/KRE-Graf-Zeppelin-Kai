@@ -106,7 +106,7 @@
 			<primitive>	Bow_Bulge_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/ship/GSA001_Graf_Zeppelin_1945_Bulge.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -120,7 +120,7 @@
 			<primitive>	Bow_DeckHouse_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/ship/GSA001_Graf_Zeppelin_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -134,7 +134,7 @@
 			<primitive>	Bow_crack_MidFront_DeckHouse_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/ship/GSA001_Graf_Zeppelin_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -148,7 +148,7 @@
 			<primitive>	Bow_crack_MidFront_Underwater_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/ship/GSA001_Graf_Zeppelin_1945_Bulge.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -162,7 +162,7 @@
 			<primitive>	Bow_crack_MidFront_in_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -176,7 +176,7 @@
 			<primitive>	Bow_crack_MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/ship/GSA001_Graf_Zeppelin_1945_hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -190,7 +190,7 @@
 			<primitive>	Bow_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/ship/GSA001_Graf_Zeppelin_1945_hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -204,7 +204,7 @@
 			<primitive>	Bow_patch_MidFront_Bulge_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/ship/GSA001_Graf_Zeppelin_1945_Bulge.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -218,7 +218,7 @@
 			<primitive>	Bow_patch_MidFront_DeckHouse_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/ship/GSA001_Graf_Zeppelin_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -232,7 +232,7 @@
 			<primitive>	Bow_patch_MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/ship/GSA001_Graf_Zeppelin_1945_hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>

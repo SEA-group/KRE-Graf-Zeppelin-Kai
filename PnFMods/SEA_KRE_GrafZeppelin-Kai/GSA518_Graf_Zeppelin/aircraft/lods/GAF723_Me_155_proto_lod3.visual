@@ -529,7 +529,7 @@
 			<primitive>	Hull_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/aircraft/GAF723_Me_155_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -543,7 +543,7 @@
 			<primitive>	chassis_on_BlendBone_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/aircraft/GAF723_Me_155.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -557,7 +557,7 @@
 			<primitive>	pylon_rocket_default_BlendBone_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/aircraft/GAF723_Me_155.mfm	</mfm>
 				</material>
 			</primitiveGroup>

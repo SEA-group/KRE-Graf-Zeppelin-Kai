@@ -62,7 +62,7 @@
 			<primitive>	Director_Root_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/finder/GF006_3m_Rangefinder_HA_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

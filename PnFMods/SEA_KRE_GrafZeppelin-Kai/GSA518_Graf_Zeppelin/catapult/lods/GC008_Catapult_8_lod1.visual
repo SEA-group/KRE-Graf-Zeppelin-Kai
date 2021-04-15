@@ -134,7 +134,7 @@
 			<primitive>	Catapult_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult_skinned	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/catapult/GC008_Catapult_8_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -148,7 +148,7 @@
 			<primitive>	Cradle1_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult_skinned	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/catapult/GC008_Catapult_8_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -162,7 +162,7 @@
 			<primitive>	Cradle2_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult_skinned	</identifier>
 					<mfm>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/catapult/GC008_Catapult_8_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
