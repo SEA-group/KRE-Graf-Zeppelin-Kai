@@ -1,19 +1,8 @@
 <GRS053_FuMO25_63.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/radar/lods/GRS053_FuMO25_63_lod1	</parent>
-	<nodefullVisual>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/radar/GRS053_FuMO25_63	</nodefullVisual>
-	<extent>	3.0000	</extent>
-	<castsShadow>	false	</castsShadow>
-	<materialNames />
-	<animation>
-		<name>	Rotation5rpm	</name>
-		<frameRate>	30.0000	</frameRate>
-		<nodes>	content/animation/common/Rotation5rpm	</nodes>
-	</animation>
-	<action>
-		<name>	idle	</name>
-		<animation>	Rotation5rpm	</animation>
-		<filler>	true	</filler>
-	</action>
+	<visual>	PnFMods/SEA_KRE_GrafZeppelin-Kai/GSA518_Graf_Zeppelin/radar/GRS053_FuMO25_63.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/GRS053_FuMO25_63/GRS053_FuMO25_63.ssm	</animation>
+	</animations>
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </GRS053_FuMO25_63.model>
